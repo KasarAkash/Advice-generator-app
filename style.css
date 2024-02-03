@@ -80,3 +80,7 @@ main {
   cursor: pointer;
   transform: translate(-50%, 0);
 }
+
+.btn:hover {
+  box-shadow: 0 0 15px var(--Neon-Green);
+}
